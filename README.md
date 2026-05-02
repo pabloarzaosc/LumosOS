@@ -110,16 +110,3 @@ lumos.img
 ```
 
 This file acts as the OS storage and persists data between runs.
-
-## Goals
-
-This project aims to explore:
-
-- low-level programming
-- memory management basics
-- filesystem design
-- operating system architecture
-
-## Disclaimer
-
-This is an educational project and not intended for production use.
